@@ -1,0 +1,7 @@
+URxvt.font:           xft:Terminus (TTF) for Powerline:MediumForPowerline:size=10:antialias=true,xft:Inconsolata\ For\ Powerline:size=10:antialias=true
+URxvt.imFont:         xft:Terminus (TTF) for Powerline:MediumForPowerline:size=10:antialias=true,xft:Inconsolata\ For\ Powerline:size=10:antialias=true
+URxvt.boldFont:       xft:Terminus (TTF) for Powerline:MediumForPowerline:size=10:antialias=true,xft:Inconsolata\ For\ Powerline:size=10:antialias=true
+URxvt.italicFont:     xft:Terminus (TTF) for Powerline:MediumForPowerline:size=10:antialias=true,xft:Inconsolata\ For\ Powerline:size=10:antialias=true
+URxvt.boldItalicFont: xft:Terminus (TTF) for Powerline:MediumForPowerline:size=10:antialias=true,xft:Inconsolata\ For\ Powerline:size=10:antialias=true
+
+URxvt*letterSpace: -6
