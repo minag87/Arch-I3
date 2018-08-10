@@ -1,2 +1,2 @@
-# Arch-I3
+# Arch Linux + I3WM 
 My personal config files 
